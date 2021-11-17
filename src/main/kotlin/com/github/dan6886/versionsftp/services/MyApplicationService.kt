@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dan6886.versionsftp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dan6886.versionsftp.MyBundle
 
 class MyApplicationService {
 
